@@ -9,7 +9,7 @@
 
 <h3>Data structures</h3>
 <p>
-  <ol>
+  <ol display="flex" flexDirection="row">
     <li>c_vector</li>
     <li>c_linked_list</li>
   </ol>
